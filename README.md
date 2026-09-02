@@ -18,4 +18,4 @@ A weak positive correlation (**r ≈ 0.17**) between transit route density and h
 Python, pandas, GeoPandas, Matplotlib, JupyterLab
 
 ## Data Sources
-- [City of Fredericksburg GIS Open Data Portal](your actual portal link)
+- [City of Fredericksburg GIS Open Data Portal](https://data-fredericksburg.opendata.arcgis.com/search?q=Parcels&type=Shapefile)
