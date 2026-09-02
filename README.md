@@ -12,7 +12,7 @@ Does proximity to public transit (bus routes) affect single-family home sale pri
 ## Key Finding
 A weak positive correlation (**r ≈ 0.17**) between transit route density and home sale price across 6,600+ single-family homes. The relationship is modest — most of the variation in home prices comes from other factors — but the direction is consistent, and the finding held up after two rounds of scrutiny (outlier removal and filtering out non-residential properties, which initially masked and then confirmed the effect).
 
-![Route density vs price chart](path/to/your/chart.png)
+![Route density vs price chart](route_density_chart.png)
 
 ## Tools
 Python, pandas, GeoPandas, Matplotlib, JupyterLab
